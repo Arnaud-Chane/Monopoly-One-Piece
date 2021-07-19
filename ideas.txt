@@ -13,8 +13,13 @@ Pour sortir, il faudra faire des doubles :
   si on est au 2em étage, faut faire au moins double 2, 3, 4, 5 ou 6,
   si on est au 3em étage, faut faire au moins double 3, 4, 5 ou 6.
   etc
+Pour sortir sans faire de double, prisonners peuvent :
+payer si 1, 2 ou 3 étage
+abandonner villes si 4, 5 ou 6 étage
   
-
+Les autres joueurs peuvent aussi faire sortir un autre joueur de la prison.
+Iels doivent faire un double du nombre de l'étage où est enfermé le prisonnier : ex : 4 étage > double 4.
+Si le/la sauveur(se) n'y arrive pas dès le premier coup, 
 
 
 
