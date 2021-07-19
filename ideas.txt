@@ -1,5 +1,32 @@
-Monopoly One Piece - Rules & Ideas
+Monopoly One Piece - Rules, Ideas & Technical
 
+// Rules
+
+Chaque ville achetée augmente de 500.000 Berries la prime du joueur.
+Avoir 2x villes  de la même mer : multiplier par 2x la prime joueurs.
+Avoir 3x villes de la même mer : multiplier par 3x la prime joueurs.
+Avoir 4x villes  de la même mer : multiplier par 4x la prime joueurs.
+
+Une fois en prison : le joueur sera enfermé à un étage en fonction de sa prime.
+Pour sortir, il faudra faire des doubles :
+  si on est au 1er étage, faire n'importe quel double.
+  si on est au 2em étage, faut faire au moins double 2, 3, 4, 5 ou 6,
+  si on est au 3em étage, faut faire au moins double 3, 4, 5 ou 6.
+  etc
+  
+
+
+
+
+
+// Ideas
+
+cases classiques : villes
+chaque cases cardinales : mer du Nord, Sud, Est et Ouest.
+Impel Down : Prison
+
+
+// Technical
 
 mettre coordonnées pour chaque case
 
