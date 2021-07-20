@@ -28,7 +28,16 @@ si'iel réussit, le prisonnier doit donner de l'argent et la prime du sauveur au
 
   :: LE CASINO (LE PARC) ::
   
+Possible de soit :
+juste récupérer 1 seul des billets
+lancer 1 seul dé :
+si 1 ou 2 > tu ne prends absolument rien
+si 3, 4 ou 5 > tu obtiens tout ce qu'il y a dans le parc
+si 6 > la banque donne 1000 berries de plus
 
+Un autre joueur peut voler ce butin en lançant un dé contre le 1er joueur :
+si iel fait un 6, iel récupère le butin
+S'il fait un autre chiffre, il perd 1000 berry
 
 
 
