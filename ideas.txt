@@ -37,7 +37,14 @@ si 6 > la banque donne 1000 berries de plus
 
 Un autre joueur peut voler ce butin en lançant un dé contre le 1er joueur :
 si iel fait un 6, iel récupère le butin
-S'il fait un autre chiffre, il perd 1000 berry
+S'il fait un autre chiffre, il donne 1000 berry au 1er joueur
+
+
+  :: MARINE FORD ::
+
+Si un joueur arrive sur la case, il va transiter sur les cases de transfert
+est transféré à la case transition 1 :
+J peut mettre sa libération à prix => les autres joueurs intéressés peuvent jeter un dé. S'iel fait un 6, il libère J
 
 
 
@@ -56,6 +63,10 @@ S'il fait un autre chiffre, il perd 1000 berry
 cases classiques : villes
 chaque cases cardinales : mer du Nord, Sud, Est et Ouest.
 Impel Down : Prison
+
+
+
+
 
 
 // Technical
