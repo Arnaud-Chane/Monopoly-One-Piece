@@ -42,9 +42,12 @@ S'il fait un autre chiffre, il donne 1000 berry au 1er joueur
 
   :: MARINE FORD ::
 
-Si un joueur arrive sur la case, il va transiter sur les cases de transfert
-est transféré à la case transition 1 :
-J peut mettre sa libération à prix => les autres joueurs intéressés peuvent jeter un dé. S'iel fait un 6, il libère J
+Si un joueur arrive sur la case, il va transiter par les deux cases de transfert avant d'atterrir à Impel Down.
+J est transféré à la case transition 1 :
+J peut mettre sa libération à prix => les autres joueurs intéressés peuvent jeter un dé. 
+Si J2 fait un 6, il libère J, gagne l'argent et la prime J2 augmente de 500k
+Si J2 fait un autre chiffre, il part lui aussi en prison.
+
 
 
 
