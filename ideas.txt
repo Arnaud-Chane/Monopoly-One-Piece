@@ -7,6 +7,9 @@ Avoir 2x villes  de la même mer : multiplier par 2x la prime joueurs.
 Avoir 3x villes de la même mer : multiplier par 3x la prime joueurs.
 Avoir 4x villes  de la même mer : multiplier par 4x la prime joueurs.
 
+
+  :: LA PRISON ::
+
 Une fois en prison : le joueur sera enfermé à un étage en fonction de sa prime.
 Pour sortir, il faudra faire des doubles :
   si on est au 1er étage, faire n'importe quel double.
@@ -14,15 +17,24 @@ Pour sortir, il faudra faire des doubles :
   si on est au 3em étage, faut faire au moins double 3, 4, 5 ou 6.
   etc
 Pour sortir sans faire de double, prisonners peuvent :
-payer si 1, 2 ou 3 étage
-abandonner villes si 4, 5 ou 6 étage
+payer si 1, 2, 3 ou 4 étage
+abandonner villes si 5 ou 6 étage ou payer cher
   
 Les autres joueurs peuvent aussi faire sortir un autre joueur de la prison.
 Iels doivent faire un double du nombre de l'étage où est enfermé le prisonnier : ex : 4 étage > double 4.
-Si le/la sauveur(se) n'y arrive pas dès le premier coup, 
+Si le/la sauveur(se) n'y arrive pas dès le premier coup, ils doivent céder une ville au milieu (dans le casino)
+si'iel réussit, le prisonnier doit donner de l'argent et la prime du sauveur augmente de 500k
 
 
-
+  :: LE CASINO (LE PARC) ::
+  
+  
+  
+  
+  
+  
+  
+  
 
 // Ideas
 
