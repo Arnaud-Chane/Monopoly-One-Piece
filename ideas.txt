@@ -98,3 +98,7 @@ var j1 = {
   bountyJ1:0;
 
 }
+
+
+j2
+j2Turn
