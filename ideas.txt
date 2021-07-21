@@ -79,3 +79,7 @@ mettre coordonnées pour chaque case
 De même que ceux à l'intérieur :
 traversee vers impel down
 
+Mettre deux attributs/catégories pour la case Impel Down car Un pour ceux enfermé et un autre pour ceux juste de transit.
+
+bankAccount = 1 000 000 000
+function newTour (bankAccount += 500 000)
