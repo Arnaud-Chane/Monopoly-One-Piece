@@ -81,5 +81,20 @@ traversee vers impel down
 
 Mettre deux attributs/catégories pour la case Impel Down car Un pour ceux enfermé et un autre pour ceux juste de transit.
 
-bankAccount = 1 000 000 000
-function newTour (bankAccount += 500 000)
+var bankAccount = 1 000 000 000
+var actualTurn = 1;
+function newTurn(){
+bankAccount += 500 000;
+actualTurn += 1;
+}
+
+var j1 = {
+  name = "Joueur 1";
+  moneyJ1 = 0;
+  coordonateJ1 = {
+    x:11; //start
+    y:0
+  }
+  bountyJ1:0;
+
+}
