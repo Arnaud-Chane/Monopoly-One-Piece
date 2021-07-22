@@ -12,7 +12,7 @@ var playerInGame = [
 ];
  
 console.log(playerInGame);
- 
+
 var j1 = [
  	j1Turn = false
 ];
