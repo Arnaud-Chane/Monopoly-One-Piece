@@ -19,7 +19,7 @@ Pour sortir, il faudra faire des doubles :
 Pour sortir sans faire de double, prisonners peuvent :
 payer si 1, 2, 3 ou 4 étage
 abandonner villes si 5 ou 6 étage ou payer cher
-  
+
 Les autres joueurs peuvent aussi faire sortir un autre joueur de la prison.
 Iels doivent faire un double du nombre de l'étage où est enfermé le prisonnier : ex : 4 étage > double 4.
 Si le/la sauveur(se) n'y arrive pas dès le premier coup, ils doivent céder une ville au milieu (dans le casino)
@@ -27,7 +27,7 @@ si'iel réussit, le prisonnier doit donner de l'argent et la prime du sauveur au
 
 
   :: LE CASINO (LE PARC) ::
-  
+
 Possible de soit :
 juste récupérer 1 seul des billets
 lancer 1 seul dé :
@@ -46,7 +46,7 @@ Si un joueur arrive sur la case, il va transiter par les deux cases de transfert
 J est transféré à la case transition 1 :
 J peut mettre sa libération à prix => les autres joueurs intéressés peuvent jeter un dé. 
 Si J2 fait un 6, il libère J, gagne l'argent et la prime J2 augmente de 500k
-Si J2 fait un autre chiffre, il part lui aussi en prison.
+Si J2 fait un autre chiffre, il part lui aussi en prison (donc au même niveau de transition)
 
 
 
@@ -66,6 +66,9 @@ Si J2 fait un autre chiffre, il part lui aussi en prison.
 cases classiques : villes
 chaque cases cardinales : mer du Nord, Sud, Est et Ouest.
 Impel Down : Prison
+
+
+
 
 
 

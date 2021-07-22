@@ -34,4 +34,17 @@ console.log(playerInGame);
  
 var myMove = prompt("What's your next move ?");
  
-// not good write with [] instead of {}=
+// not good write with [] instead of {}
+
+/*
+use .include("on"), and .push("off")
+
+
+
+*/
+
+
+
+
+
+
