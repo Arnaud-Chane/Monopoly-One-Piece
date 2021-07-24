@@ -2,11 +2,11 @@ function lessThanTen(number) {
   return number < 10;
 };
 
-let numbers = [
+var numbers = [
 	13,
 	4,
 	70
 ];
 
-let underTen = numbers.filter(lessThanTen);
+var underTen = numbers.filter(lessThanTen);
 console.log(underTen);
