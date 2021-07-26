@@ -87,7 +87,10 @@ var myMove = prompt("What's your next move ?");
 use .include("on"), and .push("off")
 
 
-
+ooor : 
+1. forEach.filter
+2. if true combine the .join() , .replace() and .split()
+  => ca va changer le statut du joueur
 */
 
 
