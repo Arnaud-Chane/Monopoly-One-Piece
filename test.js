@@ -18,7 +18,7 @@ if (actualTurn => 0) {
 };
 
 function actionTurn() {
-	//alert("It's your turn " + namePlayerTurn + ".");
+	alert("It's your turn Player" + actualTurn + ".");
 	alert("What are you gonna do ?");
 };
 
