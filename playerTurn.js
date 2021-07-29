@@ -135,5 +135,66 @@ console.log(resultat);
 
 
 
+// 3th test
+
+
+var actualTurn = 1;
+var i = 0;
+i = prompt("How many player ?");
+
+var action;
+
+/*
+("So there are " + i + " players");
+mettre if player + (i+1);
+
+
+*/
+function actionTurn() {
+	alert("It's your turn Player " + actualTurn + ".");
+ 	action = prompt("What are you gonna do ?");
+};
+
+
+
+function loopAction () { 
+  do {
+   actionTurn();
+   actualTurn += 1;
+  } while (actualTurn <= i);
+};
+
+function loopAction0 () {
+  do {
+	  actionTurn();
+	  actualTurn += 1;
+  } while (actualTurn = 1);
+};
+
+var n = 0;
+
+while (n < 1) {
+	if (actualTurn < i) {
+		loopAction();
+	} else {
+		loopAction0();
+	};
+};
+
+
+
+
+/*
+while (actualTurn => 1) {
+	actionTurn();
+	actualTurn += 1;
+} if (actualTurn > i+1) {
+	actionTurn();
+	actualTurn = 1;
+};
+*/
+
+// mettre while pour que les fonctions tournent en boucle
+
 
 
