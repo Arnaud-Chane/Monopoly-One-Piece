@@ -3,10 +3,8 @@ var i = 0;
 i = prompt("How many player ?");
 
 /*
-mettre if player + (i+1)
 ("So there are " + i + " players");
-actualTurn = i;
-
+mettre if player + (i+1);
 
 
 */
