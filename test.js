@@ -1,36 +1,13 @@
-var actualTurn = 1;
-var i = 0;
-var action;
-var n = 0;
-var endGame;
-var answer = true;
+var answer1 = [10, 20];
+var answer2 = "Bonjour";
+var answer3 = [10, 20];
 
-i = prompt("How many player ?");
+var answer4 = answer1 === answer2;
+alert(answer4);
 
-function actionTurn() {
-	alert("It's your turn Player " + actualTurn + ".");
- 	action = prompt("What are you gonna do ?");
- 	actionBreak();
-};
-
-function loopAction () { 
-  while (actualTurn <= i) {
-   actionTurn();
-   actualTurn += 1;
-  };
-  actualTurn = 1;
-};
-
-function actionBreak () {
- if (answer === action.includes("break")) {
- 	endGame = prompt("Should we continue ?")
-  } else {
-  	return;
-  };
-};
-
-while (n < 1) {
-	if (actualTurn <= i) {
-		loopAction();
-	};
-};
+answer1.join('');
+answer3.join('');
+var answer5 = answer1 === answer3;
+alert(answer1);
+alert(answer3);
+alert(answer5);
