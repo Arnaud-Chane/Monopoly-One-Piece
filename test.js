@@ -16,15 +16,26 @@ function addTurret () {
 		// on pourra mettre ensuite :
 		// how many turret ? et on pourra rajouter directement le nombre sans se soucier des noms
 	};
+	if (answerPlayer.includes("stop")) {
+		i = 1;
+	};
 };
 
 function playerAction () {
 	answerPlayer = prompt("What's next ?");
 };
 
+// function boucle
+var i = 0;
+function boucle () {
+	while (i === 0) {
+		playerAction();
+		addTurret ();
+  alert(turretNumber);
+	};
+};
+
 
 // Beginning of the function
-playerAction ();
-addTurret ();
-alert (turretNumber);
+boucle ();
 
