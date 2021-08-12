@@ -30,12 +30,12 @@ var i = 0;
 function boucle () {
 	while (i === 0) {
 		playerAction();
+		addTurret();
 	};
 };
 
 
 // Beginning of the function
 boucle ();
-addTurret ();
 alert (turretNumber);
 
