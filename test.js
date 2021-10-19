@@ -13,8 +13,8 @@ function addTurret () {
 	if (answerPlayer.includes("create" && "turret")) {
 		// array.length > lastArrayLength
 		turretNumber.push(prompt("Turret Name ?"));
-		// on pourra mettre ensuite :
-		// how many turret ? et on pourra rajouter directement le nombre sans se soucier des noms
+		turretPosX.push(prompt("In position X :"))
+		turretPosY.push(prompt("And in position Y :"))
 	};
 	if (answerPlayer.includes("stop")) {
 		i = 1;
@@ -33,6 +33,15 @@ function boucle () {
 		addTurret();
 	};
 };
+
+
+
+// function to show Name of turrets, its postion in X and Y
+
+
+
+
+
 
 
 // Beginning of the function
